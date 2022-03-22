@@ -1,10 +1,4 @@
-//notes:
- 
-//the right/leftEyebrowUpper is more of the corner of the eye
-//two tattoos does not load
- 
-//option command J to open the console in chrome
- 
+
 let video; //connect webcam to the sketch
 let model; // face sees machine learning model
 let face; //face detection
